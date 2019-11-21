@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#0288D1</color>
+    <color name="colorAccent">#2d2d2d</color>
+    <color name="tabtextcolor">#FFFF</color>
+    <color name="tabindicater">#2d2d2d</color>
+
+    <color name="snackbarred">#C95A5A</color>
+    <color name="snackbargreen">#0FF38A</color>
+    <color name="snackbaryellow">#F88328</color>
+</resources>
